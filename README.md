@@ -5,7 +5,7 @@ C͟o͟n͟t͟a͟c͟t͟
 
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
-- 🌱 Language: English/French
+- 🌱 Language: English & French & Turkish & Kurdish
 - 👀 Interested in Botting | Simple Scripts | YouTube
 - 🌱 I work with Requests | Discord
 
