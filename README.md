@@ -14,6 +14,12 @@
   <a href="mailto:ensar.pala.etu@univ-lemans.fr"><img src="https://img.shields.io/badge/📫_Me_contacter-f59e0b?style=for-the-badge" alt="Contact"></a>
 </p>
 
+<p align="center">
+  <a href="https://northeeen.github.io">
+    <img src="https://img.shields.io/badge/✨_Visiter_mon_portfolio_→_northeeen.github.io-9333ea?style=for-the-badge&labelColor=4f46e5" alt="Visiter mon portfolio" height="42">
+  </a>
+</p>
+
 ---
 
 ## 🎯 Je cherche un stage !
