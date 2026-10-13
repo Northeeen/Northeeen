@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/📍_Rennes-4f46e5?style=for-the-badge" alt="Rennes">
   <img src="https://img.shields.io/badge/🎓_BUT_Info_·_IUT_Laval-9333ea?style=for-the-badge" alt="BUT Informatique">
   <img src="https://img.shields.io/badge/📅_12_avril_→_4_juin_2027-ec4899?style=for-the-badge" alt="Dates du stage">
+  <a href="https://northeeen.github.io"><img src="https://img.shields.io/badge/🌐_Mon_portfolio-22c55e?style=for-the-badge" alt="Portfolio"></a>
   <a href="mailto:ensar.pala.etu@univ-lemans.fr"><img src="https://img.shields.io/badge/📫_Me_contacter-f59e0b?style=for-the-badge" alt="Contact"></a>
 </p>
 
