@@ -32,7 +32,7 @@
 
 ## 💪 Ce que je sais faire
 
-- 🧱 Développer des applications en **Java** (JavaFX), **Python** et **Kotlin**
+- 🧱 Développer des applications en **Java** (JavaFX) et **Python**
 - 🗄️ Concevoir des **bases de données** : modélisation MCD, requêtes, rôles et droits SQL
 - 🌐 Créer des sites en **HTML, CSS et JavaScript**
 - ✅ Écrire des **tests unitaires** et versionner mon code avec **Git**
@@ -41,7 +41,7 @@
 ## 🛠️ Mes outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,mysql,androidstudio,git,github,idea,vscode,linux&perline=13" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,idea,vscode,linux&perline=11" alt="Technologies">
 </p>
 
 ## 🌍 Langues
